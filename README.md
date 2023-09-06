@@ -1,1 +1,2 @@
 # Myrepo
+yes no
